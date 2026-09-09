@@ -462,7 +462,7 @@ Possible future enhancements include:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Your Name**
 
@@ -470,6 +470,6 @@ If you found this project useful, consider giving the repository a ⭐ on GitHub
 
 ---
 
-## 📜 License
+##  License
 
 This project is available for educational and personal use. Add an appropriate open-source license such as MIT if you intend to distribute the project under that license.
