@@ -445,7 +445,7 @@ It is useful for learning:
 
 ---
 
-## 🚧 Future Improvements
+##  Future Improvements
 
 Possible future enhancements include:
 
@@ -466,7 +466,7 @@ Possible future enhancements include:
 
 **Your Name**
 
-If you found this project useful, consider giving the repository a ⭐ on GitHub.
+If you found this project useful, consider giving the repository a  on GitHub.
 
 ---
 
